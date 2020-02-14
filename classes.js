@@ -5,9 +5,10 @@ module.exports = {
 		numberPath: 'classnbr1.png',
 		classemblemPath: 'classemblem1.png',
 		volforcemin: 0.0,
-		volfocemax: 9.99,
+		volforcemax: 9.99,
 		subclasses: {
 			I: {
+				number: 1,
 				volforcemin: 0.0,
 				volforcemax: 2.49
 			},
@@ -19,13 +20,13 @@ module.exports = {
 			},
 
 			III: {
-				number: 1,
+				number: 3,
 				volforcemin: 5.0,
 				volforcemax: 7.49
 			},
 
 			IV: {
-				number: 1,
+				number: 4,
 				volforcemin: 7.5,
 				volforcemax: 9.99
 			}
@@ -38,9 +39,10 @@ module.exports = {
 		numberPath: 'classnbr2.png',
 		classemblemPath: 'classemblem2.png',
 		volforcemin: 10.0,
-		volfocemax: 11.99,
+		volforcemax: 11.99,
 		subclasses: {
 			I: {
+				number: 1,
 				volforcemin: 10.0,
 				volforcemax: 10.49
 			},
@@ -52,13 +54,13 @@ module.exports = {
 			},
 
 			III: {
-				number: 1,
+				number: 3,
 				volforcemin: 11.0,
 				volforcemax: 11.49
 			},
 
 			IV: {
-				number: 1,
+				number: 4,
 				volforcemin: 11.5,
 				volforcemax: 12.99
 			}
@@ -71,9 +73,10 @@ module.exports = {
 		numberPath: 'classnbr3.png',
 		classemblemPath: 'classemblem3.png',
 		volforcemin: 12.0,
-		volfocemax: 13.99,
+		volforcemax: 13.99,
 		subclasses: {
 			I: {
+				number: 1,
 				volforcemin: 12.0,
 				volforcemax: 12.49
 			},
@@ -85,13 +88,13 @@ module.exports = {
 			},
 
 			III: {
-				number: 1,
+				number: 3,
 				volforcemin: 13.0,
 				volforcemax: 13.49
 			},
 
 			IV: {
-				number: 1,
+				number: 4,
 				volforcemin: 13.5,
 				volforcemax: 13.99
 			}
@@ -104,9 +107,10 @@ module.exports = {
 		numberPath: 'classnbr4.png',
 		classemblemPath: 'classemblem4.png',
 		volforcemin: 14.0,
-		volfocemax: 14.99,
+		volforcemax: 14.99,
 		subclasses: {
 			I: {
+				number: 1,
 				volforcemin: 14.0,
 				volforcemax: 14.24
 			},
@@ -118,13 +122,13 @@ module.exports = {
 			},
 
 			III: {
-				number: 1,
+				number: 3,
 				volforcemin: 14.5,
 				volforcemax: 14.74
 			},
 
 			IV: {
-				number: 1,
+				number: 4,
 				volforcemin: 14.75,
 				volforcemax: 14.99
 			}
@@ -137,9 +141,10 @@ module.exports = {
 		numberPath: 'classnbr5.png',
 		classemblemPath: 'classemblem5.png',
 		volforcemin: 15.0,
-		volfocemax: 15.99,
+		volforcemax: 15.99,
 		subclasses: {
 			I: {
+				number: 1,
 				volforcemin: 15.0,
 				volforcemax: 15.24
 			},
@@ -151,13 +156,13 @@ module.exports = {
 			},
 
 			III: {
-				number: 1,
+				number: 3,
 				volforcemin: 15.5,
 				volforcemax: 15.74
 			},
 
 			IV: {
-				number: 1,
+				number: 4,
 				volforcemin: 15.75,
 				volforcemax: 15.99
 			}
@@ -170,9 +175,10 @@ module.exports = {
 		numberPath: 'classnbr6.png',
 		classemblemPath: 'classemblem6.png',
 		volforcemin: 16.0,
-		volfocemax: 16.99,
+		volforcemax: 16.99,
 		subclasses: {
 			I: {
+				number: 1,
 				volforcemin: 16.0,
 				volforcemax: 16.24
 			},
@@ -184,13 +190,13 @@ module.exports = {
 			},
 
 			III: {
-				number: 1,
+				number: 3,
 				volforcemin: 16.5,
 				volforcemax: 16.74
 			},
 
 			IV: {
-				number: 1,
+				number: 4,
 				volforcemin: 16.75,
 				volforcemax: 16.99
 			}
@@ -203,9 +209,10 @@ module.exports = {
 		numberPath: 'classnbr7.png',
 		classemblemPath: 'classemblem7.png',
 		volforcemin: 17.0,
-		volfocemax: 17.99,
+		volforcemax: 17.99,
 		subclasses: {
 			I: {
+				number: 1,
 				volforcemin: 17.0,
 				volforcemax: 17.24
 			},
@@ -217,13 +224,13 @@ module.exports = {
 			},
 
 			III: {
-				number: 1,
+				number: 3,
 				volforcemin: 17.5,
 				volforcemax: 17.74
 			},
 
 			IV: {
-				number: 1,
+				number: 4,
 				volforcemin: 17.75,
 				volforcemax: 17.99
 			}
@@ -236,9 +243,10 @@ module.exports = {
 		numberPath: 'classnbr8.png',
 		classemblemPath: 'classemblem8.png',
 		volforcemin: 18.0,
-		volfocemax: 18.99,
+		volforcemax: 18.99,
 		subclasses: {
 			I: {
+				number: 1,
 				volforcemin: 18.0,
 				volforcemax: 18.24
 			},
@@ -250,13 +258,13 @@ module.exports = {
 			},
 
 			III: {
-				number: 1,
+				number: 3,
 				volforcemin: 18.5,
 				volforcemax: 18.74
 			},
 
 			IV: {
-				number: 1,
+				number: 4,
 				volforcemin: 18.75,
 				volforcemax: 18.99
 			}
@@ -269,9 +277,10 @@ module.exports = {
 		numberPath: 'classnbr9.png',
 		classemblemPath: 'classemblem9.png',
 		volforcemin: 19.0,
-		volfocemax: 19.99,
+		volforcemax: 19.99,
 		subclasses: {
 			I: {
+				number: 1,
 				volforcemin: 19.0,
 				volforcemax: 19.24
 			},
@@ -283,13 +292,13 @@ module.exports = {
 			},
 
 			III: {
-				number: 1,
+				number: 3,
 				volforcemin: 19.5,
 				volforcemax: 19.74
 			},
 
 			IV: {
-				number: 1,
+				number: 4,
 				volforcemin: 19.75,
 				volforcemax: 19.99
 			}
@@ -302,9 +311,10 @@ module.exports = {
 		numberPath: 'classnbr10.png',
 		classemblemPath: 'classemblem10.png',
 		volforcemin: 20.0,
-		volfocemax: 23.99,
+		volforcemax: 23.99,
 		subclasses: {
 			I: {
+				number: 1,
 				volforcemin: 20.0,
 				volforcemax: 20.99
 			},
@@ -316,13 +326,13 @@ module.exports = {
 			},
 
 			III: {
-				number: 1,
+				number: 3,
 				volforcemin: 22.0,
 				volforcemax: 22.99
 			},
 
 			IV: {
-				number: 1,
+				number: 4,
 				volforcemin: 23.0,
 				volforcemax: 23.99
 			}
