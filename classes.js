@@ -1,9 +1,6 @@
 module.exports = {
 	sienna: {
 		name: 'sienna',
-		classPath: 'class1.png',
-		numberPath: 'classnbr1.png',
-		classemblemPath: 'classemblem1.png',
 		volforcemin: 0.0,
 		volforcemax: 9.99,
 		subclasses: {
@@ -35,9 +32,6 @@ module.exports = {
 
 	cobalt: {
 		name: 'cobalt',
-		classPath: 'class2.png',
-		numberPath: 'classnbr2.png',
-		classemblemPath: 'classemblem2.png',
 		volforcemin: 10.0,
 		volforcemax: 11.99,
 		subclasses: {
@@ -69,9 +63,6 @@ module.exports = {
 
 	dandelion: {
 		name: 'dandelion',
-		classPath: 'class3.png',
-		numberPath: 'classnbr3.png',
-		classemblemPath: 'classemblem3.png',
 		volforcemin: 12.0,
 		volforcemax: 13.99,
 		subclasses: {
@@ -103,9 +94,6 @@ module.exports = {
 
 	cyan: {
 		name: 'cyan',
-		classPath: 'class4.png',
-		numberPath: 'classnbr4.png',
-		classemblemPath: 'classemblem4.png',
 		volforcemin: 14.0,
 		volforcemax: 14.99,
 		subclasses: {
@@ -137,9 +125,6 @@ module.exports = {
 
 	scarlet: {
 		name: 'scarlet',
-		classPath: 'class5.png',
-		numberPath: 'classnbr5.png',
-		classemblemPath: 'classemblem5.png',
 		volforcemin: 15.0,
 		volforcemax: 15.99,
 		subclasses: {
@@ -171,9 +156,6 @@ module.exports = {
 
 	coral: {
 		name: 'coral',
-		classPath: 'class6.png',
-		numberPath: 'classnbr6.png',
-		classemblemPath: 'classemblem6.png',
 		volforcemin: 16.0,
 		volforcemax: 16.99,
 		subclasses: {
@@ -205,9 +187,6 @@ module.exports = {
 
 	argento: {
 		name: 'argento',
-		classPath: 'class7.png',
-		numberPath: 'classnbr7.png',
-		classemblemPath: 'classemblem7.png',
 		volforcemin: 17.0,
 		volforcemax: 17.99,
 		subclasses: {
@@ -239,9 +218,6 @@ module.exports = {
 
 	eldora: {
 		name: 'eldora',
-		classPath: 'class8.png',
-		numberPath: 'classnbr8.png',
-		classemblemPath: 'classemblem8.png',
 		volforcemin: 18.0,
 		volforcemax: 18.99,
 		subclasses: {
@@ -273,9 +249,6 @@ module.exports = {
 
 	crimson: {
 		name: 'crimson',
-		classPath: 'class9.png',
-		numberPath: 'classnbr9.png',
-		classemblemPath: 'classemblem9.png',
 		volforcemin: 19.0,
 		volforcemax: 19.99,
 		subclasses: {
@@ -307,9 +280,6 @@ module.exports = {
 
 	imperial: {
 		name: 'imperial',
-		classPath: 'class10.png',
-		numberPath: 'classnbr10.png',
-		classemblemPath: 'classemblem10.png',
 		volforcemin: 20.0,
 		volforcemax: 23.99,
 		subclasses: {
