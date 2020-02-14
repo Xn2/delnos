@@ -1,6 +1,6 @@
 module.exports = {
-	sierra: {
-		name: 'sierra',
+	sienna: {
+		name: 'sienna',
 		classPath: 'class1.png',
 		numberPath: 'classnbr1.png',
 		classemblemPath: 'classemblem1.png',
