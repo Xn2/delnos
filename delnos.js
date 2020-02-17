@@ -44,7 +44,6 @@ function makeImage(tier, division, volforce) {
 		})
 		.then((font) => {
 			let unitX;
-			console.log(volUnits);
 			if (volUnits < 10) {
 				unitX = 38;
 			} else if (volUnits >= 10 && volUnits < 20) {
@@ -56,7 +55,8 @@ function makeImage(tier, division, volforce) {
 				volDecimals = '0' + volDecimals.toString();
 			}
 			loadedImage.print(font, unitX, 80, volUnits).print(font, 57, 80, volDecimals).write('output.png');
-		})
+			console.log("Saved image to output.png")
+})
 		.catch((error) => {
 			throw error;
 		});
